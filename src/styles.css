@@ -1,36 +1,3 @@
-/* Namari Landing Page v.1.1.0 Style Index - a free landing page by shapingrain.com
-
-1. Default and Reset styles
-- 1.1 Input Elements
-2. Global elements
-- 2.1 Header
-- 2.2 Logo
-- 2.3 Buttons
-- 2.4 Navigation
-- 2.5 Social Elements
-- 2.6 Images
-3. Fonts and Headings
-4. Banner
-- 4.1 SignUp Form
-5. Content Elements
-- 5.1 Icons
-- 5.2 Parallax Elements
-- 5.3 Divider
-6. Landing Page Sections
-- 6.1 Features
-- 6.2 Testimonials
-- 6.3 Gallery
-- 6.4 Video
-- 6.5 Clients
-- 6.6 Pricing Table
-7. Footer
-
-
-/*------------------------------------------------------------------------------------------*/
-
-
-/* 1. Defaults & Reset of specific styles across browsers */
-
 
 /*------------------------------------------------------------------------------------------*/
 
@@ -834,6 +801,7 @@ h6 {
 .section-subtitle {
     font-size: 18px;
     padding-top: 0;
+    text-color: #e4473c;
 }
 
 .section-heading h3 {
@@ -2594,7 +2562,7 @@ a:hover,
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("assets/images/banner-images/flora-flower-lotus-91147.jpg") no-repeat center;
+    background: url("assets/images/banner-images/apple-computer-cup-7974.jpg") no-repeat center;
     background-size: 100% 100%;
     background-attachment: initial;
 }
@@ -2617,21 +2585,18 @@ body {
 
 
 /* Logo, if you are using Fonts as Logo and not image
-
 #logo h1 {
     font-family:;
     font-size:; 
     font-weight:;
     color:;
 }
-
 #logo h2 {
     font-family:;
     font-size:; 
     font-weight:;
     color:;
 }
-
 */
 
 
@@ -2639,10 +2604,11 @@ body {
 
 #banner h1 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
-    font-size: 62px;
+    font-size: 55px;
     line-height: 60px;
     font-weight: 800;
-    color: #111;
+    color: #d2b356;
+    margin-top: 130px
 }
 
 #banner h2 {
